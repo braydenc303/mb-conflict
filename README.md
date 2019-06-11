@@ -1,0 +1,2 @@
+# mb-conflict
+Testing conflicts
